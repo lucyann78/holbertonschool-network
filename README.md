@@ -1,0 +1,1 @@
+This project introduces core networking concepts including the OSI model, a seven-layer framework that explains how communication occurs between systems, from physical signals to application-specific exchanges. It covers LANs and WANs, their typical uses and geographic scopes
