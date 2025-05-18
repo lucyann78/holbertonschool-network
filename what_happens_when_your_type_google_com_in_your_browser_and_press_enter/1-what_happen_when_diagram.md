@@ -1,4 +1,4 @@
-
+![image alt](https://github.com/lucyann78/holbertonschool-network/blob/5de1300c549b1740efb134a975bfc199d8a2f0af/what_happens_when_your_type_google_com_in_your_browser_and_press_enter/Browser%20request%20image.png)
 
 
 
